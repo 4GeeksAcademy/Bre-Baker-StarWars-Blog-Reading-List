@@ -9,9 +9,9 @@ export const Navbar = ({ favorites, handleClick }) => {
           <a className="navbar-brand" href="#">
             <Link to="/">
               <img
-                src="https://pngimg.com/d/star_wars_logo_PNG34.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Magicthegathering-logo.svg/2560px-Magicthegathering-logo.svg.png"
                 alt="Logo"
-                width="100"
+                width="250"
                 height="100"
                 className="d-inline-block align-text-top"
               ></img>
